@@ -1,10 +1,10 @@
-Ingredients
+## Ingredients
 - 250g plain white flour
 - 150ml whole milk
 - 4 free-range eggs, beaten
 - 2 tbsp beef dripping or sunflower oil
 
-Method
+## Method
 1. Sift the flour into a large bowl with a generous pinch of salt. Combine the milk in a jug with 150ml cold water.
 
 2. Make a well in the middle of the flour and add the eggs. Pour in a little milk and water, and then whisk the lot together to make a smooth batter. Mix in the rest of the liquid, until you have a batter the consistency of single cream. Leave at room temperature for at least 15 minutes.
@@ -17,7 +17,7 @@ Method
 
 6. Eat immediately.
 
-Notes
+## Notes
 
 Original recipe says: "Makes 1 large, or 12 individual puddings". We found that 1.5x recipe quantities made 24 puddings (but perhaps the tin was closer to cupcake size than muffin size...)
 
