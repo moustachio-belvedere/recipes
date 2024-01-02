@@ -18,6 +18,7 @@ Method
 6. Eat immediately.
 
 Notes
+
 Original recipe says: "Makes 1 large, or 12 individual puddings". We found that 1.5x recipe quantities made 24 puddings (but perhaps the tin was closer to cupcake size than muffin size...)
 
 Use just enough sunflower oil to cover each base then fill each halfway with batter when hot.
