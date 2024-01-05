@@ -1,10 +1,19 @@
 # M's winter salad
 
-## Method
+## Ingredients
+- 1 orange
+- sesame oil
+- cider vinegar
+- honey
+- salt, pepper
+- 4/5 carrots
+- 1 apple
+- 1 large betroot
 
+## Method
 ### Dressing
 1. zest and juice one orange
-2. start with a tablespoon of sesame oil, and a 'mean' tablespoon of cider vinegar, half a teaspoon of honey, salt and peppr
+2. start with a tablespoon of sesame oil, and a 'mean' tablespoon of cider vinegar, half a teaspoon of honey, salt and pepper
 3. adjust above three liquid ingredients to taste
 
 ### Salad
@@ -13,4 +22,5 @@
 3. 1 large beetroot (fresh, uncooked)
 4. mix with above dressing, add salt and pepper to taste
 
-Note: keeps well in the fridge for a few days
+## Notes
+Keeps well in the fridge for a few days
